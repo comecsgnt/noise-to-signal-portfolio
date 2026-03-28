@@ -2,7 +2,7 @@
 
 **Côme Genet, Paul Beaumont, Antoine Mazet**
 
-Course: *Portfolio Allocation* — CentraleSupélec (Christian Bongiorno & Romain Perchet)
+Course: *Portfolio Allocation — CentraleSupélec* (Christian Bongiorno & Romain Perchet)
 
 ---
 
