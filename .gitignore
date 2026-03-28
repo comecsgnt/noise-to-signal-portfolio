@@ -1,0 +1,5 @@
+wiki_prices.csv
+returns_window.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
