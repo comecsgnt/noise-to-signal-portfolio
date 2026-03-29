@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # From Noise to Signal: Portfolio Strategies with Covariance Filtering
 
 **Authors**: Côme Genet, Paul Beaumont, Antoine Mazet
