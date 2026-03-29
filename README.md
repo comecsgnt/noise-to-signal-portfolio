@@ -88,8 +88,8 @@ The notebook automatically:
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/portfolio-allocation.git
-cd portfolio-allocation
+git clone https://github.com/comecsgnt/noise-to-signal-portfolio.git
+cd noise-to-signal-portfolio
 
 # Place wiki_prices.csv in this directory, then:
 jupyter notebook Portfolio_Allocation_Final.ipynb
