@@ -1,8 +1,13 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # From Noise to Signal: Portfolio Strategies with Covariance Filtering
 
 **Authors**: Côme Genet, Paul Beaumont, Antoine Mazet
 
-*Group project for 3MD5050 – Portfolio Allocation at CentraleSupélec (January 2026), taught by Christian Bongiorno & Romain Perchet.*
+*Group project for* **3MD5050 – Portfolio Allocation** *at CentraleSupélec (January 2026), taught by Christian Bongiorno & Romain Perchet.*
 
 ---
 
