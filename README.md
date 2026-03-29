@@ -1,8 +1,8 @@
 # From Noise to Signal: Portfolio Strategies with Covariance Filtering
 
-**Côme Genet, Paul Beaumont, Antoine Mazet**
+**Authors**: Côme Genet, Paul Beaumont, Antoine Mazet
 
-Course: *Portfolio Allocation — CentraleSupélec* (Christian Bongiorno & Romain Perchet)
+*Group project for 3MD5050 – Portfolio Allocation at CentraleSupélec (January 2026), taught by Christian Bongiorno & Romain Perchet.*
 
 ---
 
